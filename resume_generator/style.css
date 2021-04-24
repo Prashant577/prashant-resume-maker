@@ -1,0 +1,26 @@
+/* body{
+    background-color: brown;
+} */
+
+
+/* #cv-form{
+    display: none;
+} */
+
+#cv-template{
+    display: none;
+}
+
+.myImg{
+    border: 1px gray solid;
+    border-radius: 50%;
+    width: 150px;
+}
+
+.background{
+    background-color: rgb(190, 187, 194);
+}
+
+#nameT2{
+    background-color: rgb(113, 113, 122);
+}
